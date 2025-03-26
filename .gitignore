@@ -1,0 +1,15 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Visual Studio folder
+.vs/
+*.user
+*.suo
+
+# Ignore hidden temp files
+*.vsidx
+*.log
+
+# Ignore Rider/JetBrains
+.idea/
